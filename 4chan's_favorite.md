@@ -10,8 +10,7 @@ audacity and explored some tools inside audacity and found something called as m
 By changing to that view I saw a very well know character Rick astley thereby found the 
 desired flag.
 
-![Screenshot 2022-06-29 192410](https://user-images.githubusercontent.com/92567732/176455051-3622da73-3f12-44ed-86b3-8e5277552f56.png)
-
+![image](https://user-images.githubusercontent.com/92567732/176491105-06f1b43e-bdd1-474d-a03f-72c1715f42f5.png)
 
 ### Flag
 
