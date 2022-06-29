@@ -1,4 +1,12 @@
-I just **inspected** the given link and i think i found the flag in the scripts section.
+### Description
 
-Actually i could not remember properly where i found the flag because i am writing this
- soln after many days but i am sure that i have inspected the webpage.
+
+### Solution
+
+
+I **inspected** the given link first. And then i skimmed through the code and found the blur element.
+I clicked on that and i moved to **computed** below. I found the flag in the content section there.
+
+### Flag 
+
+The flag i got is ictf{N4SA_H3k3r}.
