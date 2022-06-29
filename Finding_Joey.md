@@ -11,8 +11,8 @@ browser and right clicked on it where I found this option
 
 ![image](https://user-images.githubusercontent.com/92567732/176497786-29a9996a-603e-40ac-841a-0eb95a24453e.png)
 
-
+I got many similar images and results thereby found the flag.
 
 ### Flag
 
-The flag which i got is 
+The flag which i got is ictf{Canning_Town_Bus_Station}
