@@ -9,4 +9,4 @@ As I scrolled through the bin file I found the flag.
 
 ### Flag
 
-The flag which i got is ictf{Canning_Town_Bus_Station}
+The flag which i got is ictf{b30cb82af09abeba892a4242ccfb854977e}
