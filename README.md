@@ -12,7 +12,6 @@
 ## Hardware
 
 &nbsp;
-&nbsp;
 
 ### Noice_UART
 
