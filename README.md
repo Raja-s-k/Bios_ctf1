@@ -36,11 +36,11 @@ The flag which i got is ictf{R128ASB}
 
 ### Hello_Hardware
 
-### Description
+#### Description
 
 Can yu make the output high?
 
-### Solution
+#### Solution
 
 I implemented the concept of **reverse engineering** i.e., I examined the circuit from **last to first**.
  On seeing the circuit first time I thought it is some what complicated. But even though I started to solve the circuit.
@@ -48,7 +48,7 @@ I implemented the concept of **reverse engineering** i.e., I examined the circui
 I gave the same to the [virtual hardware](https://wokwi.com/projects/334568130647949906) and got 
 the correct flag.
 
-### Flag
+#### Flag
 
 I got the flag as ictf{G00d_woRk}
 
@@ -57,11 +57,11 @@ I got the flag as ictf{G00d_woRk}
 
 ### Dots&Dashes
 
-### Description
+#### Description
 
 Decrypt the audio to find the flag!!
 
-### Solution
+#### Solution
 
  To solve this CTF challenge i downloaded the audio file and just use [morse decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
 
@@ -70,18 +70,18 @@ Decrypt the audio to find the flag!!
 I found the ictf flag in the here but a letter "o" is not in caps. So, I changed
 it to caps and submitted the flag.
 
-### Flag
+#### Flag
 
 The flag i got is ICTF{R1CKR0113DONMRS3}
 
 
 ### murphy's ghost
 
-### Description
+#### Description
 
 Decipher the ciphertext
 
-### Solution
+#### Solution
 
 On reading the description it is clear that the qn is something related to encryption and 
 decryption. When I saw the audio file I am sure that it can be decoded by morse decorder.
@@ -90,18 +90,18 @@ software provided in the given hint finally found **Vigenère and Gronsfeld Ciph
 one and got the correct flag. It took nearly 1 1/2 to solve this challenge.
 
  
-### Flag
+#### Flag
 
 The flag which i got is ictf{oahhtweoyymnagutwc}
 
 
 ### 4chan's favorite
 
-### Description
+#### Description
 
 This surely isnt the first time you're seeing this.
 
-### Solution
+#### Solution
 
 To solve this question firstly I downloaded Audacity. Then I uploaded the given wav file.
 At first I did not know how to solve this question. So i went through some doc about 
@@ -111,7 +111,7 @@ desired flag.
 
 ![image](https://user-images.githubusercontent.com/92567732/176491105-06f1b43e-bdd1-474d-a03f-72c1715f42f5.png)
 
-### Flag
+#### Flag
 
 The flag which i got is ictf{rick_astley}
 
@@ -120,18 +120,18 @@ The flag which i got is ictf{rick_astley}
 
 ### Baby_rev
 
-### Description
+#### Description
 
 Here is a firmware dump. Can you find the flag?
 
-### Solution
+#### Solution
 To solve this challenge firstly I downloaded the given bin file. Since I did no had
 proper software to open bin file I made use of this [website](https://filext.com/online-file-viewer.html).
 As I scrolled through the bin file I found the flag.
 
 ![image](https://user-images.githubusercontent.com/92567732/176500572-95c09f48-53d3-4d21-af25-3c82a602bab7.png)
 
-### Flag
+#### Flag
 
 The flag which i got is ictf{b30cb82af09abeba892a4242ccfb854977e}
 
@@ -140,11 +140,11 @@ The flag which i got is ictf{b30cb82af09abeba892a4242ccfb854977e}
 
 ### IRC
 
-### Description
+#### Description
 
 Try joining #bi0s_Hardware on Libera Chat
 
-### Solution
+#### Solution
 
 
 To complete this challenge I just opened my browser and searched for **Libera Chat**, clicked
@@ -152,7 +152,8 @@ on **CONNECT** in the top right corner and then clicked on **WEBCHAT** and gave 
 I found the flag there.
 
 ![image](https://user-images.githubusercontent.com/92567732/176510813-74797872-f6a7-44b1-9ae3-e12ad198b3b0.png)
-### Flag
+
+#### Flag
 
 I got the flag as 
 
@@ -169,10 +170,10 @@ SOLVED
 
 ### Inspeccionar_y_disfrutar
 
-### Description
+#### Description
 
 
-### Solution
+#### Solution
 
 
 I **inspected** the given link first. And then i skimmed through the code and found the blur element.
@@ -180,22 +181,22 @@ I clicked on that and i moved to **computed** below. I found the flag in the con
 
 ![image](https://user-images.githubusercontent.com/92567732/176512142-ae09ef7e-b23e-4bc3-b534-caa9e869991b.png)
 
-### Flag 
+#### Flag 
 
 The flag i got is ictf{N4SA_H3k3r}.
 
 
 ## OSINT
 
-### Finding Joey
+#### Finding Joey
 
-### Description
+#### Description
 During a vacation 2 friends Joey and Chandler went to England to watch Manchester 
 United VS Arsenal game, after the game both got drunk and went missing. Chandler 
 was searching for Joey all over the place. Luckily Chandler got to call joey and 
 told he is in a Bus station behind the building whose photo was taken by Chandler.
 
-### Solution
+#### Solution
 
 I used google lens to solve this challenge. First I opened the given image in google 
 browser and right clicked on it where I found this option
@@ -204,7 +205,7 @@ browser and right clicked on it where I found this option
 
 I got many similar images and results thereby found the flag.
 
-### Flag
+#### Flag
 
 The flag which i got is ictf{Canning_Town_Bus_Station}
 
@@ -213,16 +214,16 @@ The flag which i got is ictf{Canning_Town_Bus_Station}
 
 ### (net)cat out of the bag
 
-### Description
+#### Description
 
 indy will put desc later.
 
-### Solution
+#### Solution
 
 I solved this challenge by **clicking on Start Instance** and copied the provided
 command and pasted in the **Ubuntu terminal**. I got the desired flag at the end.
 
-### Flag
+#### Flag
 
 The flag which i got is
 
