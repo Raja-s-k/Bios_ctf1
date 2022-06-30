@@ -116,6 +116,8 @@ desired flag.
 
 The flag which i got is ictf{rick_astley}
 
+____________________________________________________________________________________________
+
 
 ## Reversing
 
@@ -135,6 +137,8 @@ As I scrolled through the bin file I found the flag.
 #### Flag
 
 The flag which i got is ictf{b30cb82af09abeba892a4242ccfb854977e}
+
+____________________________________________________________________________________________
 
 
 ## MISC
@@ -167,6 +171,9 @@ SOLVED
 
 SOLVED
 
+_____________________________________________________________________________________________
+
+
 ## Web
 
 ### Inspeccionar_y_disfrutar
@@ -185,6 +192,8 @@ I clicked on that and i moved to **computed** below. I found the flag in the con
 #### Flag 
 
 The flag i got is ictf{N4SA_H3k3r}.
+
+_____________________________________________________________________________________________
 
 
 ## OSINT
@@ -209,6 +218,9 @@ I got many similar images and results thereby found the flag.
 #### Flag
 
 The flag which i got is ictf{Canning_Town_Bus_Station}
+
+___________________________________________________________________________________________
+
 
 
 ## Programming
