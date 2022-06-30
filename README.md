@@ -188,7 +188,7 @@ The flag i got is ictf{N4SA_H3k3r}.
 
 ## OSINT
 
-#### Finding Joey
+### Finding Joey
 
 #### Description
 During a vacation 2 friends Joey and Chandler went to England to watch Manchester 
