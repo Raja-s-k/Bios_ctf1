@@ -14,4 +14,4 @@ desired flag.
 
 ### Flag
 
-The flag which i got is 
+The flag which i got is ictf{rick_astley}

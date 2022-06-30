@@ -12,4 +12,4 @@ the correct flag.
 
 ### Flag
 
-I got the flag as
+I got the flag as ictf{G00d_woRk}
