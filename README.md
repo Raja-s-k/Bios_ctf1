@@ -1,6 +1,3 @@
-#                                      Bi0s_hardware
-
-![image](https://user-images.githubusercontent.com/92567732/176678489-677957f3-f592-4f20-9f11-43a1e2855254.png)
 
 
 # Indy_CTF
